@@ -1,5 +1,5 @@
-base_url = "https://not-matthias.github.io/apollo/"
-title = "not-matthias"
+base_url = "https://SmoothSnail.github.io/blogs"
+title = "Personal Blogs"
 description = "This is an example description"
 build_search_index = true
 generate_feeds = true
@@ -27,7 +27,7 @@ fancy_code = true
 dynamic_note = true           # a note that can be toggled
 mathjax = true
 mathjax_dollar_inline_enable = true
-repo_url = "https://github.com/not-matthias/apollo/tree/main/content/"
+repo_url = "https://github.com/SmoothSnail/blogs/tree/main/content/"
 
 menu = [
     { name = "/posts", url = "/posts", weight = 1 },
