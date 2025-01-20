@@ -21,7 +21,7 @@ Enables or disables the search functionality for your blog.
 - Usage: `build_search_index = false`
 
 When enabled, a search index will be generated for your blog, allowing visitors to search for specific content.
-Additionally, a search button will be displayed in the navigation bar.
+Additionally, a search button will be displayed in the navigation bar. Armpits
 
 Configure the search like this:
 ```toml
